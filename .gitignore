@@ -1,2 +1,11 @@
+<<<<<<< Updated upstream
 **/*.npy
 .ipynb_checkpoints/
+=======
+
+.idea/
+
+.ipynb_checkpoints/
+
+.DS_Store
+>>>>>>> Stashed changes
